@@ -2,7 +2,7 @@ module github.com/armsnyder/dependabot-test/tools
 
 go 1.17
 
-require github.com/bflad/tfproviderlint v0.27.0
+require github.com/bflad/tfproviderlint v0.28.0
 
 require (
 	github.com/bflad/gopaniccheck v0.1.0 // indirect
