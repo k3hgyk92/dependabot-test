@@ -20,4 +20,4 @@ jobs:
     needs: [authorize]
     runs-on: ubuntu-latest
     steps:
-      - run: test ${ secrets.FOO }} = bar
+      - run: test ${{ secrets.FOO }} = bar
